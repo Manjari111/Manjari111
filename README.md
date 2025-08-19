@@ -70,4 +70,4 @@ Hi, I'm Manjari 👩‍💻
 
 ---
 
-✨ *“Design creates culture. Culture shapes va
+✨ *“Turning ideas into code, and code into experiences"
