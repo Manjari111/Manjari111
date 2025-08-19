@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Passionate+Coder!;I'm+a+learning+developer...;I'm+Enthusiastic+learner;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjari111&label=Profile%20views&color=0e75b6&style=flat" alt="manjari111" /> </p>
-Hi, I'm Manjari 👩‍💻  
+Hi, I'm Thinethra Manjari 👩‍💻  
 
 🎓 Undergraduate in BSc (Hons) Computing & Information Systems  
 📍 Sabaragamuwa University of Sri Lanka  
